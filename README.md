@@ -1,8 +1,25 @@
-# React + Vite
+# React Quiz App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a ReactJS MCQ (Multiple Choice Questions) game app with one-question-per-screen navigation, user-friendly design, and a final score display upon completing the questions.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Make sure you have the following software installed on your machine:
+
+- [Node.js](https://nodejs.org/) - JavaScript runtime
+- [npm](https://www.npmjs.com/) - Node Package Manager
+
+### Installing
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/SnehaJature/React_QuizApp.git
+
+   
+Built With : 
+React - A JavaScript library for building user interfaces
